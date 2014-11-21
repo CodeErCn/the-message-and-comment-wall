@@ -1,0 +1,1 @@
+This repo is a Coding Dojo assignment that demonstrate a message wall website by using PHP and MySql database. User can register their information to the database and login as users and able to post message and comments. The password store in the database is also encrypted by using salt method.
